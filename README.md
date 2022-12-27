@@ -1,2 +1,1 @@
-# GoChaseIt
 # WhereAmI
